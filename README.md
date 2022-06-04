@@ -48,4 +48,4 @@ I really think <em>communication</em> is the key to progress.
 
 You can see more and contact with LinkedIn:
 
-[Ariel Evangelista](https://www.linkedin.com/in/ariel-evangelista-a4677618b/). Hope you enjoy!
+[Ariel Evangelista](www.linkedin.com/in/neo-reformed/). Hope you enjoy!

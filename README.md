@@ -42,7 +42,7 @@ Global cloud computing provider.
 
 I am a programming enthusiast, spend my time reading about programming and breaktimes about psychology.
 
-I really think that communication is the key to progress.
+I really think <em>communication</em> is the key to progress.
 
 ## Contact 💬
 

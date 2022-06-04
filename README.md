@@ -1,10 +1,6 @@
 # About 🤔
 
-Hi my name is Ariel Evangelista i am a frontend developer.
-
-I'm actualy working on Brazil.
-
-I love extreme programming & agil culture, everyday contributing for a better work experience on the company I am with in...
+I'm actualy remote working on Brazil.
 
 ## Programming Skills 🚀
 

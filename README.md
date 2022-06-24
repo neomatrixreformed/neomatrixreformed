@@ -43,7 +43,3 @@ Global cloud computing provider.
 I am a programming enthusiast, spend my time reading about programming and breaktimes about psychology.
 
 I really think <em>communication</em> is the key to progress.
-
-## Contact 💬
-
-You can see more and contact with LinkedIn [Ariel Evangelista](https://www.linkedin.com/in/neo-reformed) I hope you enjoy!
